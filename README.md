@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/CodingWorld-00/DSAwithaditicodeworld/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
